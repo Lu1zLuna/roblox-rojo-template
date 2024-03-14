@@ -1,2 +1,2 @@
-# roblox-rojo-test
-Apenas um projeto para testar a integração com o Rojo
+# roblox-rojo-template
+Template para criar novos projetos no Rojo/Roblox
