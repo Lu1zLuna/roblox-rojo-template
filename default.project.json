@@ -1,4 +1,5 @@
 {
+    "emitLegacyScripts": false,
     "name": "Rojo template file",
     "servePlaceIds": [
         0
